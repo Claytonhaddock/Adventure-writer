@@ -1,12 +1,10 @@
 {
-    "name": "NodeJSExample",
+    "name": "Adventure builder",
     "version": "1.0.0",
-    "description": "Found on blog.rummel.cc",
     "dependencies": {
         "socket.io": "latest",
         "express": "latest",
         "jade": "latest",
         "mongoose": "latest"
     },
-    "author": "johannesr"
 }
